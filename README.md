@@ -1,0 +1,2 @@
+# AutoMailSender
+automailsender in golang
